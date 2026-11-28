@@ -1,6 +1,6 @@
 # pancakes
 <img src="assets/pancakes/Pasted%20image%2020261121192012.png" width=230>
-for 10 pancakes, 2 hours (1 hour making the mix, 1 hour cooking)
+for 10 pancakes, 2 hours (30min-1 hour making the mix, 30min-1 hour cooking depending on how many pans you have)
 
 ## ingredients
 * 4 eggs
